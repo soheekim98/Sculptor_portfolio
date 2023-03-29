@@ -15,16 +15,16 @@ $(document).ready(function(){
     media();
     function media(){
         let windowWidth = $(window).width();
-        if(windowWidth >= 1800){
+        if(windowWidth >= 1500){
             var swiper = new Swiper(".mySwiper", {
                 direction: "vertical",
                 loop: true,
-                speed:2500,
+                speed:2000,
                 // touchRatio: 0,
                 resistance : false,
                 allowTouchMove : false,
                 autoplay: {
-                    delay: 2500,
+                    delay: 1500,
                     disableOnInteraction: false,
                 },
             });
