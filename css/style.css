@@ -249,45 +249,6 @@ section{
     background-size: cover;
 }
 
-/* 호버시 뒤돌아 있는 사진 모아서 적용시키기 */
-.slider-1:hover{
-    background: url(../sculptor-img/new_hover_01.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-2:hover{
-    background: url(../sculptor-img/new_hover_02.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-3:hover{
-    background: url(../sculptor-img/new_hover_03.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-4:hover{
-    background: url(../sculptor-img/new_hover_04.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-5:hover{
-    background: url(../sculptor-img/new_hover_05.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-6:hover{
-    background: url(../sculptor-img/new_hover_06.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-7:hover{
-    background: url(../sculptor-img/new_hover_07.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-8:hover{
-    background: url(../sculptor-img/new_hover_08.jpg) no-repeat center;
-    background-size: cover;
-}
-.slider-9:hover{
-    background: url(../sculptor-img/new_hover_09.jpg) no-repeat center;
-    background-size: cover;
-}
-
-
 
 /* lookbook */
 .lookbook-wrap{
