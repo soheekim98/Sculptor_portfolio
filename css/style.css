@@ -358,7 +358,7 @@ section{
     background: url(../sculptor-img/banner_03.jpeg) no-repeat center;
     background-size: cover;
     background-attachment: fixed;
-
+    height: 500px;
     position: relative;
 }
 .season-off-txt{
